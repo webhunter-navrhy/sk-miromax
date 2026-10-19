@@ -108,3 +108,6 @@ h2{font-size:var(--step-3)}
 .paticka{background:var(--tmava);color:#d5d7da;padding-block:var(--space-4)}.paticka .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem}
 
 .hlavicka nav a{padding-inline:.5rem}
+
+.sekce ul.karty,.sekce ul.blog{margin-top:var(--space-4)}
+.udaje dd{overflow-wrap:anywhere}
