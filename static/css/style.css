@@ -64,7 +64,7 @@ a { color: inherit; }
 
 /* === Miromax: červená z loga, čierna, výstražná žltá z ich CSS === */
 :root{--bg:#fff;--text:#16181c;--muted:#5b616b;--accent:#c9151c;--accent-text:#fff;--line:#e3e5e8;--tmava:#14161a;--zluta:#ffd012;--svetla:#f5f4f2;
---font-body:"Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif;--font-head:"Arial Black","Segoe UI",system-ui,sans-serif}
+--font-body:system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;--font-head:var(--font-body)}
 h1,h2,h3{font-weight:800;letter-spacing:-.01em}
 h1{font-size:var(--step-4);color:#fff;max-width:18ch}
 h2{font-size:var(--step-3)}
@@ -106,3 +106,5 @@ h2{font-size:var(--step-3)}
 .udaje a{display:inline-flex;align-items:center;min-height:44px}
 .formular input,.formular textarea{background:#fff}
 .paticka{background:var(--tmava);color:#d5d7da;padding-block:var(--space-4)}.paticka .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem}
+
+.hlavicka nav a{padding-inline:.5rem}
