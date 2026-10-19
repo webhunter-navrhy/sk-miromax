@@ -1,0 +1,55 @@
+{
+  "slug": "sk-miromax",
+  "nazev": "Miromax, s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/sk-miromax/",
+  "base": "/sk-miromax/",
+  "lang": "sk",
+  "popis": "Miromax, s.r.o., Banská Bystrica: BOZP a požiarna ochrana, odborné prehliadky, školenia zamestnancov, predaj a servis hasiacich prístrojov.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "foto-07.jpg",
+  "logo": "logo.png",
+  "theme_color": "#c9151c",
+  "typ": "LocalBusiness",
+  "ico": "31609058",
+  "kontakt": {
+    "email": "miromax@miromax.sk",
+    "telefon": "905 618 077",
+    "adresa": {
+      "ulice": "",
+      "psc": "",
+      "mesto": "Banská Bystrica",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu miromax.sk"
+  },
+  "nav": [
+    {
+      "text": "Služby",
+      "href": "#sluzby"
+    },
+    {
+      "text": "Odborné prehliadky",
+      "href": "#prehliadky"
+    },
+    {
+      "text": "Predaj a servis",
+      "href": "#predaj"
+    },
+    {
+      "text": "Blog",
+      "href": "#blog"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

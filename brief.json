@@ -1,0 +1,286 @@
+{
+ "slug": "sk-miromax",
+ "zdroj_url": "http://www.miromax.sk",
+ "firma": "Miromax, s.r.o.",
+ "obor": [
+  "technologie a bezpečnost",
+  "stavebnictví a řemesla"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [],
+  "telefony": [
+   "905 618 077",
+   "905 757 867",
+   "905 817 054",
+   "917 618 917"
+  ],
+  "adresa": "",
+  "socialni_site": []
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://www.miromax.sk/images/miromax_logo_s.png",
+  "rozmery": [
+   160,
+   80
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#3071ff",
+   "#0ac9c9",
+   "#ff2b02",
+   "#ffd012",
+   "#23cf5f",
+   "#110055"
+  ],
+  "z_loga": [
+   "#c9151c"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#c9151c",
+   "#3071ff",
+   "#0ac9c9"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://www.miromax.sk/images/img_services/hp_sluzby.jpg",
+   "sirka": 555,
+   "vyska": 370,
+   "alt": "This image for Image Layouts addon"
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://www.miromax.sk/images/img_services/hp_odborneprehliadky.jpg",
+   "sirka": 555,
+   "vyska": 370,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://www.miromax.sk/images/img_services/hp_predaj.jpg",
+   "sirka": 555,
+   "vyska": 370,
+   "alt": "This image for Image Layouts addon"
+  },
+  {
+   "soubor": "podklady/foto/foto-04.jpg",
+   "url": "https://www.miromax.sk/images/img_blog/blogpost_bozp_externa_firma_alebo_zamestnanec.jpg",
+   "sirka": 545,
+   "vyska": 273,
+   "alt": "BOZP. Externá firma alebo vlastný zamestnanec?"
+  },
+  {
+   "soubor": "podklady/foto/foto-05.jpg",
+   "url": "https://www.miromax.sk/images/img_blog/blogpost_tipy_hasiacich_pristrojov.jpg",
+   "sirka": 545,
+   "vyska": 273,
+   "alt": "Tipy hasiacich prístrojov a ich využitie"
+  },
+  {
+   "soubor": "podklady/foto/foto-06.jpg",
+   "url": "https://www.miromax.sk/images/img_blog/blogpost_povinnosti_zamestnavatela.jpg",
+   "sirka": 545,
+   "vyska": 273,
+   "alt": "Povinnosti zamestnávateľa v oblasti BOZP"
+  },
+  {
+   "soubor": "podklady/foto/foto-07.jpg",
+   "url": "https://www.miromax.sk/images/slides/slide_02.jpg",
+   "sirka": 1920,
+   "vyska": 855,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.jpg",
+   "url": "https://www.miromax.sk/images/slides/slide_03.jpg",
+   "sirka": 1920,
+   "vyska": 855,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.jpg",
+   "url": "https://www.miromax.sk/images/slides/slide_04.jpg",
+   "sirka": 1920,
+   "vyska": 855,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-10.jpg",
+   "url": "https://www.miromax.sk/images/slides/slide_01.jpg",
+   "sirka": 1920,
+   "vyska": 855,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Aby vaše pracoviská boli bezpečné",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Projekty, dokumentácie a vzdelávanie",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Predaj a servis požiarnych zariadení",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Chránime vás pred požiarmi a inými hrozbami",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Aby vaše pracoviská boli bezpečné",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Projekty, dokumentácie a vzdelávanie",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Predaj a servis požiarnych zariadení",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Chránime vás pred požiarmi",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Služby",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Odborné prehliadky",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Predaj",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Pomáhame chrániť vaše pracoviská",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Blog",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "BOZP. Externá firma alebo vlastný zamestnanec?",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Tipy hasiacich prístrojov a ich využitie",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Povinnosti zamestnávateľa v oblasti BOZP",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Kontakt",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "EB Sticky Cookie Notice",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Servis a predajňa",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Pobočky",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Hľadať",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Zvyšujeme bezpečnosť práce a ochranu zdravia vašich zamestnancov, chránime váš majetok, zabezpečujeme stálu zdravotnú službu.",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vypracovanie protipožiarnych projektov, revizných správ, akreditované vzdelávanie zamestnancov",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Predaj širokého sortimentu protipožiarneho tovaru, ich revízia a následný servis.",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Znižujeme riziko požiaru, minimalizujeme riziko vzniku škôd na majetku v dôsledku škodových udalostí",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Zvyšujeme bezpečnosť práce a ochranu zdravia vašich zamestnancov, chránime váš majetok, zabezpečujeme stálu zdravotnú službu.",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vypracovanie protipožiarnych projektov, revizných správ, akreditované vzdelávanie zamestnancov",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Predaj širokého sortimentu protipožiarneho tovaru, ich revízia a následný servis.",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Znižujeme riziko požiaru, minimalizujeme riziko vzniku škôd na majetku v dôsledku škodových udalostí",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Táto webová stránka používa súbory cookie, ktoré sú nevyhnutné na jej fungovanie a potrebné na dosiahnutie účelov uvedených v zásadách ochrany osobných údajov. Prijatím, alebo posúvaním tejto stránky, alebo pokračovaním v prehliadaní súhlasíte s našimi zásadami používania cookies.",
+   "zdroj": "https://www.miromax.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "e-mail: Táto e-mailová adresa je chránená pred spamovacími robotmi. Na jej zobrazenie potrebujete mať nainštalovaný JavaScript. Otváracie hodiny: Pon - Štv: 7:00 - 16:00 Pia: 7:00 - 15:00 Obedňajšia presávka : 11:00 - 11:30",
+   "zdroj": "https://www.miromax.sk/"
+  }
+ ],
+ "chybi": [
+  "e-mail",
+  "IČO",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Spoločnosť MIROMAX, s.r.o. bola založená v roku 1994 ako servisná prevádzka hasiacich prístrojov a hadicových zariadení. Sídlo spoločnosti je v Banskej Bystrici. Od roku 1998 sme začali poskytovať služby v protipožiarnej ochrane a bezpečnosti práce. Cez vytvorenú sieť regionálnych  pobočiek v Žiline, Košiciach a Bratislave dokážeme poskytnúť naše služby vo všetkých regiónoch Slovenska."
+}
